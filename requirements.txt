@@ -1,0 +1,5 @@
+speechrecognition
+pypiwin32
+openai
+requests
+configparser
